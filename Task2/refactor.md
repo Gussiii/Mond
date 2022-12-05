@@ -1,11 +1,11 @@
 # Variable changes
 
-train_1 → train_data
-test_1  → test_data
-filePath → file_path
-df_short_1 → df_short
-results → forecast_results
-item_df_short → dates_df_short #Unused variable
+- train_1 → train_data
+- test_1  → test_data
+- filePath → file_path
+- df_short_1 → df_short
+- results → forecast_results
+- item_df_short → dates_df_short #Unused variable
 
 # Style
 
