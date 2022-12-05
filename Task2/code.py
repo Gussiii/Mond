@@ -14,7 +14,7 @@ from pyspark.sql.types import *
 from pyspark.sql.functions import pandas_udf, PandasUDFType, current_date
 from sklearn.model_selection import train_test_split
 
-# Local libs quries
+# Local Library
 from queries import * 
 from model_regressor import *
 
